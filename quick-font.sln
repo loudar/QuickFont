@@ -16,6 +16,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "QuickFont.Shared", "src\Qui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFont.ES20", "src\QuickFont.ES20\QuickFont.ES20.csproj", "{F182325F-D682-4639-A19F-AE047DA80518}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFont.SharedCore", "src\QuickFont.SharedCore\QuickFont.SharedCore.csproj", "{8F5CB8D3-A220-4F7E-ACD0-A2F98D435572}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		src\QuickFont.Shared\QuickFont.Shared.projitems*{adf0dfb4-fbbd-4336-bb19-62e5a904c38d}*SharedItemsImports = 13
@@ -39,6 +41,10 @@ Global
 		{F182325F-D682-4639-A19F-AE047DA80518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F182325F-D682-4639-A19F-AE047DA80518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F182325F-D682-4639-A19F-AE047DA80518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5CB8D3-A220-4F7E-ACD0-A2F98D435572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5CB8D3-A220-4F7E-ACD0-A2F98D435572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5CB8D3-A220-4F7E-ACD0-A2F98D435572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5CB8D3-A220-4F7E-ACD0-A2F98D435572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

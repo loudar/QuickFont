@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OpenTK">
+        <Version>5.0.0-pre.8</Version>
+      </PackageReference>
+      <PackageReference Include="OpenTK.Graphics">
+        <Version>5.0.0-pre.8</Version>
+      </PackageReference>
+      <PackageReference Include="System.Drawing.Common">
+        <Version>7.0.0</Version>
+      </PackageReference>
+    </ItemGroup>
+
+</Project>
